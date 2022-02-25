@@ -1,4 +1,4 @@
-# module-component-generator
+# Module and Component Generator
 This VSCode extension allows you to create Vue.js modules and components
 
 ## Usage
